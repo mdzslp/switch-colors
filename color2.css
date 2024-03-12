@@ -1,0 +1,33 @@
+
+body {
+   background-color: rgb(48, 143, 180);
+   font-family: sans-serif;
+}
+
+
+
+
+.color_one {
+   width: 100px;
+   height: 100px;
+   background-color: #808080;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+
+.color_two {
+   width: 100px;
+   height: 100px;
+   background-color: #808080;
+   margin-bottom: 20px;
+   border-radius: 10px;
+   
+}
+
+
+button {
+   padding: 10px;
+   margin-right: 10px;
+   border-radius: 10px;
+  
+}
